@@ -336,6 +336,14 @@ button:focus,
   transition: 0.5s;
 }
 
+a:hover {
+  color: red;
+}
+
+.link {
+  color: #ff0000;
+}
+
 @media (max-width: 576px) {
   /* line 174, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_common.scss */
   .section_tittle h2 {
